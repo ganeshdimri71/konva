@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/konva/static/css/main.e6c13ad2.css",
+    "main.js": "/konva/static/js/main.76e24347.js",
+    "static/js/787.f758a952.chunk.js": "/konva/static/js/787.f758a952.chunk.js",
+    "index.html": "/konva/index.html",
+    "main.e6c13ad2.css.map": "/konva/static/css/main.e6c13ad2.css.map",
+    "main.76e24347.js.map": "/konva/static/js/main.76e24347.js.map",
+    "787.f758a952.chunk.js.map": "/konva/static/js/787.f758a952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.76e24347.js"
+  ]
+}
